@@ -1,0 +1,1 @@
+this is a sample text to practice and get to know the procedure of git
